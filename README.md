@@ -1,2 +1,2 @@
-# -support-excel-vba-array-book
-「Excel VBA配列入門」のサポートページです。
+# 「Excel VBA配列入門」サポートページ
+本ページ「Excel VBA配列入門」のサポートページです。書籍内のプログラムについて案内しています。
